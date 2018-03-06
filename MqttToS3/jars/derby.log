@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 26 13:17:27 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015d-7fb0-4bbf-00000cfd8f28 
+on database directory /home/felipe/Zubat-BackEnd/RealtimeAnalytics/jars/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7ac48e10 
+Loaded from file:/usr/local/lib/python2.7/dist-packages/pyspark-2.1.0+hadoop2.7-py2.7.egg/pyspark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/home/felipe/Zubat-BackEnd/RealtimeAnalytics/jars
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-87-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
